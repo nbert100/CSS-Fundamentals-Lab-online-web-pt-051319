@@ -9,4 +9,7 @@ h1 {
   text-align: center;
 }
 
-.img {align-items: center;}
+img.displayed {
+    display: block;
+    margin-left: auto;
+    margin-right: auto }
