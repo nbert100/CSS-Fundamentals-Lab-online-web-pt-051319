@@ -26,5 +26,7 @@ nav a {
   padding: 10px;
 }
 
-figcaption
+figcaption {
+  text-align: center;
+}
 
