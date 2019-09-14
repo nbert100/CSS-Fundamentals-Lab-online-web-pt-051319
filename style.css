@@ -15,7 +15,7 @@ h1 {
     margin-right: auto; 
   }
   
-.nav {
+.nav a {
   list-style-type: none;
   margin: 0;
   padding: 10px 10px;
